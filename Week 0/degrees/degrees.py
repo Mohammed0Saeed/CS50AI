@@ -1,3 +1,7 @@
+"""
+IMPORTANT INFORMATION!
+I wrote only the util.py and DFS function in this program. The rest of the code was created by CS50 AI
+"""
 import csv
 import sys
 
